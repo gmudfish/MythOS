@@ -57,6 +57,7 @@ A MythOS trained on past data risks trapping its user in their former self. To c
 The user must have absolute ownership and control over their data and their personalized AI model. The ideal implementation of MythOS is as an open-source protocol that can be run on private, user-owned hardware. This is the only way to fully neutralize the risks of corporate surveillance, data exploitation, and the *"Digital Ghost"* problem.
 
 ---
+"I hereby dedicate this work to the public domain under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means you can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
 ## 5.0 Conclusion: A Tool for Becoming
 
