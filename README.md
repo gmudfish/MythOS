@@ -2,7 +2,7 @@
 
 *A Framework for Personalized Cognitive Augmentation*
 
-> **Author:** G. Mudfish (A Synthesis of Collaborative Analysis)  
+> **Author:** G. Mudfish 
 > **Date:** August 1, 2025  
 
 
