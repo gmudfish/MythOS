@@ -61,4 +61,4 @@ The user must have absolute ownership and control over their data and their pers
 
 MythOS is more than a technological artifact; it is a discipline. It is a practice of curating one's own knowledge and engaging in structured dialogue with a cognitive partner. Its success will not be measured by how accurately it can imitate its user, but by how much more creative, capable, and intellectually independent the user becomes through their interaction with it. It is a tool designed not just to manage what we know, but to shape who we can become.
 ---
-"I hereby dedicate this work to the public domain under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means you can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+I hereby dedicate this work to the public domain under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means you can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
