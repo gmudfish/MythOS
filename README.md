@@ -55,7 +55,7 @@ A MythOS trained on past data risks trapping its user in their former self. To c
 ### The Principle of User Sovereignty (Countering Exploitation)
 
 The user must have absolute ownership and control over their data and their personalized AI model. The ideal implementation of MythOS is as an open-source protocol that can be run on private, user-owned hardware. This is the only way to fully neutralize the risks of corporate surveillance, data exploitation, and the *"Digital Ghost"* problem.
-
+---
 
 ### 5.0 Conclusion: A Tool for Becoming
 
